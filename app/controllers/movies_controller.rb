@@ -30,7 +30,8 @@ class MoviesController < ApplicationController
   end
 
   def get_data
-    @data = File.read("result/movie3/social_graph.json")
+    movie = params[:movie]
+    @data = File.read("result/" + movie + "/social_graph.json")
     render :json => @data 
   end
 

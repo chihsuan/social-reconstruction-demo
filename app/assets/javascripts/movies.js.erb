@@ -1,4 +1,4 @@
-function initialize () {
+function initialize (movie) {
     
     var image_path = "images/";
     var image_ext = ".png";
@@ -18,72 +18,73 @@ function initialize () {
     .attr("height", height);
 
     d3.json( 'get_data', function(error, graph) {
-    force
-    .nodes(graph.nodes)
-    .links(graph.links)
-    .start();
+        force
+        .nodes(graph.nodes)
+        .links(graph.links)
+        .start();
 
-    var link = svg.selectAll(".link")
-    .data(graph.links)
-    .enter().append("line")
-    .attr("class", "link")
-    .style("stroke-width", function(d) { return Math.sqrt(d.value); });
-
-
-    var labels = svg.selectAll('text')
-    .data(graph.links)
-    .enter().append('text')
-    .attr("x", function(d) { return (d.source.y + d.target.y) / 2; }) 
-    .attr("y", function(d) { return (d.source.x + d.target.x) / 2; }) 
-    .attr("text-anchor", "middle") 
-    .text(function(d) {return d.label;}); 
-
-    var node = svg.selectAll(".node")
-    .data(graph.nodes)
-    .enter().append("svg:image")
-    .attr("class", "node")
-    .attr("r", 5)
-    .style("fill", function(d) { return color(d.group); })
-    .attr("xlink:href", function(d){
-    return image_path + d.name + image_ext;
-    })
-    .attr("width", 40)
-    .attr("height",40)
-    .on("dblclick.zoom", function(d) {
-    imgIndex[d.ID] += 1;
-    check = CheckImg(  image_path + d.name  + image_ext );
-    if(check){
-    d3.select(this)  
-    .attr( {"xlink:href" :  image_path +  d.name + image_ext  } ); //imgIndex[d.ID].toString()
-    }
-    else{
-    imgIndex[d.ID] = 0;
-    d3.select(this)
-    .attr( {"xlink:href" : image_path + d.name + image_ext } );
-    }
-    })
-    .call(force.drag);
-
-    var imgIndex = Array.apply(null, new Array(5)).map(Number.prototype.valueOf,0);
+        var link = svg.selectAll(".link")
+        .data(graph.links)
+        .enter().append("line")
+        .attr("class", "link")
+        .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
 
-    node.append("title")
-    .text(function(d) { return d.name; });
+        var labels = svg.selectAll('text')
+        .data(graph.links)
+        .enter().append('text')
+        .attr("x", function(d) { return (d.source.y + d.target.y) / 2; }) 
+        .attr("y", function(d) { return (d.source.x + d.target.x) / 2; }) 
+        .attr("text-anchor", "middle") 
+        .text(function(d) {return d.label;}); 
 
-    force.on("tick", function() {
-    link.attr("x1", function(d) { return d.source.x; })
-    .attr("y1", function(d) { return d.source.y; })
-    .attr("x2", function(d) { return d.target.x; })
-    .attr("y2", function(d) { return d.target.y; });
+        var node = svg.selectAll(".node")
+        .data(graph.nodes)
+        .enter().append("svg:image")
+        .attr("class", "node")
+        .attr("r", 5)
+        .style("fill", function(d) { return color(d.group); })
+        .attr("xlink:href", function(d){
+        return image_path + d.name + image_ext;
+        })
+        .attr("width", 40)
+        .attr("height",40)
+        .on("dblclick.zoom", function(d) {
+        imgIndex[d.ID] += 1;
+        check = CheckImg(  image_path + d.name  + image_ext );
+        if(check){
+        d3.select(this)  
+        .attr( {"xlink:href" :  image_path +  d.name + image_ext  } ); //imgIndex[d.ID].toString()
+        }
+        else{
+        imgIndex[d.ID] = 0;
+        d3.select(this)
+        .attr( {"xlink:href" : image_path + d.name + image_ext } );
+        }
+        })
+        .call(force.drag);
 
-    node.attr("transform", function(d) {
-    return "translate(" + d.x + "," + d.y + ")";
-    });
+        var imgIndex = Array.apply(null, new Array(5)).map(Number.prototype.valueOf,0);
 
-    labels.attr("x", function(d) { return (d.target.x + (d.source.x + d.target.x)/2)/2; }) 
-    .attr("y", function(d) { return (d.target.y + (d.source.y + d.target.y)/2)/2  ; }) 
-    });
-    });
+
+        node.append("title")
+        .text(function(d) { return d.name; });
+
+        force.on("tick", function() {
+        link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+        node.attr("transform", function(d) {
+        return "translate(" + d.x + "," + d.y + ")";
+        });
+
+        labels.attr("x", function(d) { return (d.target.x + (d.source.x + d.target.x)/2)/2; }) 
+        .attr("y", function(d) { return (d.target.y + (d.source.y + d.target.y)/2)/2  ; }) 
+        });
+  }).header("Content-Type","application/json")
+    .send("POST", JSON.stringify({"movie": movie}));
 }
 
 function CheckImg (url) {
@@ -93,5 +94,11 @@ function CheckImg (url) {
     return http.status!=404;
 }
 
+function updateGraph (el) {
+    var selected = $(el).val();
+    $('svg').remove();
+    initialize(selected);
+};
 
-$(document).ready(initialize);
+
+$(document).ready(initialize('movie1'));
