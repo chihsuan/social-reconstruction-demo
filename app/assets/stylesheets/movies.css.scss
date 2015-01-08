@@ -4,6 +4,11 @@
 @import "bootstrap";
 @import "bootstrap-sprockets";
 
+.section{
+   min-height: 678px;
+}
+
+
 
 .node {
     stroke: #fff;

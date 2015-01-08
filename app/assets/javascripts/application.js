@@ -15,4 +15,5 @@
 //= require d3
 //= require bootstrap-sprockets
 //= require turbolinks
+//= require jquery.fullPage.min.js
 //= require_tree .
