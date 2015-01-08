@@ -1,6 +1,7 @@
 function initialize () {
     
-    var image_path = "images/"
+    var image_path = "images/";
+    var image_ext = ".png";
 
     var width = '100',
     height = 630;
@@ -44,21 +45,21 @@ function initialize () {
     .attr("r", 5)
     .style("fill", function(d) { return color(d.group); })
     .attr("xlink:href", function(d){
-    return image_path + d.name + ".jpg";
+    return image_path + d.name + image_ext;
     })
     .attr("width", 40)
     .attr("height",40)
     .on("dblclick.zoom", function(d) {
     imgIndex[d.ID] += 1;
-    check = CheckImg(  image_path + d.name  + ".jpg" );
+    check = CheckImg(  image_path + d.name  + image_ext );
     if(check){
     d3.select(this)  
-    .attr( {"xlink:href" :  image_path +  d.name + '.jpg'  } ); //imgIndex[d.ID].toString()
+    .attr( {"xlink:href" :  image_path +  d.name + image_ext  } ); //imgIndex[d.ID].toString()
     }
     else{
     imgIndex[d.ID] = 0;
     d3.select(this)
-    .attr( {"xlink:href" : image_path + d.name + '.jpg' } );
+    .attr( {"xlink:href" : image_path + d.name + image_ext } );
     }
     })
     .call(force.drag);
