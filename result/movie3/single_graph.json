@@ -1,0 +1,581 @@
+{
+    "Sister_t25": {
+        "Michael": {
+            "keyword": "Sister", 
+            "weight": 1.0, 
+            "face_position": [
+                863, 
+                372, 
+                1420, 
+                929
+            ], 
+            "speaker": true, 
+            "frame_position": 162126.0, 
+            "keyword_id": 25
+        }
+    }, 
+    "Father_t9": {
+        "Anne": {
+            "keyword": "Father", 
+            "weight": 0.5, 
+            "face_position": [
+                542, 
+                297, 
+                877, 
+                632
+            ], 
+            "speaker": false, 
+            "frame_position": 40152.0, 
+            "keyword_id": 9
+        }, 
+        "Michael": {
+            "keyword": "Father", 
+            "weight": 0.5, 
+            "face_position": [
+                754, 
+                348, 
+                1237, 
+                831
+            ], 
+            "speaker": true, 
+            "frame_position": 40080.0, 
+            "keyword_id": 9
+        }
+    }, 
+    "Son_t15": {
+        "Coach": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                870, 
+                140, 
+                1024, 
+                294
+            ], 
+            "speaker": true, 
+            "frame_position": 75036.0, 
+            "keyword_id": 15
+        }
+    }, 
+    "Son_t14": {
+        "Coach": {
+            "keyword": "Son", 
+            "weight": 0.5, 
+            "face_position": [
+                852, 
+                75, 
+                953, 
+                176
+            ], 
+            "speaker": true, 
+            "frame_position": 74412.0, 
+            "keyword_id": 14
+        }, 
+        "Michael": {
+            "keyword": "Son", 
+            "weight": 0.5, 
+            "face_position": [
+                1470, 
+                652, 
+                1603, 
+                785
+            ], 
+            "speaker": false, 
+            "frame_position": 74520.0, 
+            "keyword_id": 14
+        }
+    }, 
+    "Son_t13": {
+        "Michael": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                571, 
+                711, 
+                716, 
+                856
+            ], 
+            "speaker": true, 
+            "frame_position": 74166.0, 
+            "keyword_id": 13
+        }
+    }, 
+    "Mom_t10": {
+        "Anne": {
+            "keyword": "Mom", 
+            "weight": 0.46153846153846156, 
+            "face_position": [
+                1276, 
+                67, 
+                1411, 
+                202
+            ], 
+            "speaker": true, 
+            "frame_position": 51612.0, 
+            "keyword_id": 10
+        }, 
+        "Michael": {
+            "keyword": "Mom", 
+            "weight": 0.5384615384615384, 
+            "face_position": [
+                616, 
+                421, 
+                728, 
+                533
+            ], 
+            "speaker": false, 
+            "frame_position": 51648.0, 
+            "keyword_id": 10
+        }
+    }, 
+    "Mom_t11": {
+        "Collins": {
+            "keyword": "Mom", 
+            "weight": 0.5, 
+            "face_position": [
+                833, 
+                102, 
+                1108, 
+                377
+            ], 
+            "speaker": true, 
+            "frame_position": 59952.0, 
+            "keyword_id": 11
+        }, 
+        "Anne": {
+            "keyword": "Mom", 
+            "weight": 0.5, 
+            "face_position": [
+                1155, 
+                98, 
+                1485, 
+                428
+            ], 
+            "speaker": false, 
+            "frame_position": 60006.0, 
+            "keyword_id": 11
+        }
+    }, 
+    "Mom_t16": {
+        "S.J": {
+            "keyword": "Mom", 
+            "weight": 0.3333333333333333, 
+            "face_position": [
+                672, 
+                116, 
+                912, 
+                356
+            ], 
+            "speaker": true, 
+            "frame_position": 77166.0, 
+            "keyword_id": 16
+        }, 
+        "Michael": {
+            "keyword": "Mom", 
+            "weight": 0.6666666666666666, 
+            "face_position": [
+                1040, 
+                225, 
+                1333, 
+                518
+            ], 
+            "speaker": false, 
+            "frame_position": 77202.0, 
+            "keyword_id": 16
+        }
+    }, 
+    "Mom_t17": {
+        "Anne": {
+            "keyword": "Mom", 
+            "weight": 0.75, 
+            "face_position": [
+                745, 
+                232, 
+                1226, 
+                713
+            ], 
+            "speaker": true, 
+            "frame_position": 94320.0, 
+            "keyword_id": 17
+        }, 
+        "S.J": {
+            "keyword": "Mom", 
+            "weight": 0.25, 
+            "face_position": [
+                716, 
+                191, 
+                1227, 
+                702
+            ], 
+            "speaker": false, 
+            "frame_position": 94338.0, 
+            "keyword_id": 17
+        }
+    }, 
+    "Brother_t12": {
+        "Collins": {
+            "keyword": "Brother", 
+            "weight": 0.4, 
+            "face_position": [
+                698, 
+                126, 
+                962, 
+                390
+            ], 
+            "speaker": true, 
+            "frame_position": 70740.0, 
+            "keyword_id": 12
+        }, 
+        "Anne": {
+            "keyword": "Brother", 
+            "weight": 0.6, 
+            "face_position": [
+                592, 
+                78, 
+                1096, 
+                582
+            ], 
+            "speaker": false, 
+            "frame_position": 70794.0, 
+            "keyword_id": 12
+        }
+    }, 
+    "Mom_t8": {
+        "S.J": {
+            "keyword": "Mom", 
+            "weight": 0.3333333333333333, 
+            "face_position": [
+                175, 
+                510, 
+                276, 
+                611
+            ], 
+            "speaker": true, 
+            "frame_position": 39204.0, 
+            "keyword_id": 8
+        }, 
+        "Sean": {
+            "keyword": "Mom", 
+            "weight": 0.6666666666666666, 
+            "face_position": [
+                457, 
+                156, 
+                733, 
+                432
+            ], 
+            "speaker": false, 
+            "frame_position": 39240.0, 
+            "keyword_id": 8
+        }
+    }, 
+    "Son_t1": {
+        "Sean": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                323, 
+                216, 
+                578, 
+                471
+            ], 
+            "speaker": true, 
+            "frame_position": 10002.0, 
+            "keyword_id": 1
+        }
+    }, 
+    "Son_t3": {
+        "Sandstrom": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                1314, 
+                221, 
+                1704, 
+                611
+            ], 
+            "speaker": true, 
+            "frame_position": 24084.0, 
+            "keyword_id": 3
+        }
+    }, 
+    "Son_t20": {
+        "Anne": {
+            "keyword": "Son", 
+            "weight": 0.4, 
+            "face_position": [
+                530, 
+                177, 
+                766, 
+                413
+            ], 
+            "speaker": false, 
+            "frame_position": 104544.0, 
+            "keyword_id": 20
+        }, 
+        "Coach": {
+            "keyword": "Son", 
+            "weight": 0.6, 
+            "face_position": [
+                528, 
+                148, 
+                774, 
+                394
+            ], 
+            "speaker": true, 
+            "frame_position": 104508.0, 
+            "keyword_id": 20
+        }
+    }, 
+    "Son_t21": {
+        "Michael": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                979, 
+                581, 
+                1075, 
+                677
+            ], 
+            "speaker": true, 
+            "frame_position": 107562.0, 
+            "keyword_id": 21
+        }
+    }, 
+    "Son_t22": {
+        "Coach": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                42, 
+                345, 
+                212, 
+                515
+            ], 
+            "speaker": true, 
+            "frame_position": 112842.0, 
+            "keyword_id": 22
+        }
+    }, 
+    "Son_t23": {
+        "Michael": {
+            "keyword": "Son", 
+            "weight": 1.0, 
+            "face_position": [
+                613, 
+                658, 
+                827, 
+                872
+            ], 
+            "speaker": true, 
+            "frame_position": 114012.0, 
+            "keyword_id": 23
+        }
+    }, 
+    "Son_t24": {
+        "Coach": {
+            "keyword": "Son", 
+            "weight": 0.4, 
+            "face_position": [
+                1081, 
+                322, 
+                1337, 
+                578
+            ], 
+            "speaker": true, 
+            "frame_position": 121644.0, 
+            "keyword_id": 24
+        }, 
+        "Michael": {
+            "keyword": "Son", 
+            "weight": 0.6, 
+            "face_position": [
+                14, 
+                290, 
+                306, 
+                582
+            ], 
+            "speaker": false, 
+            "frame_position": 121644.0, 
+            "keyword_id": 24
+        }
+    }, 
+    "Mom_t2": {
+        "Collins": {
+            "keyword": "Mom", 
+            "weight": 0.25, 
+            "face_position": [
+                519, 
+                229, 
+                706, 
+                416
+            ], 
+            "speaker": false, 
+            "frame_position": 18606.0, 
+            "keyword_id": 2
+        }, 
+        "Anne": {
+            "keyword": "Mom", 
+            "weight": 0.5, 
+            "face_position": [
+                400, 
+                80, 
+                866, 
+                546
+            ], 
+            "speaker": false, 
+            "frame_position": 18570.0, 
+            "keyword_id": 2
+        }, 
+        "S.J": {
+            "keyword": "Mom", 
+            "weight": 0.25, 
+            "face_position": [
+                824, 
+                128, 
+                1206, 
+                510
+            ], 
+            "speaker": true, 
+            "frame_position": 18534.0, 
+            "keyword_id": 2
+        }
+    }, 
+    "Mom_t7": {
+        "Collins": {
+            "keyword": "Mom", 
+            "weight": 0.25, 
+            "face_position": [
+                1362, 
+                298, 
+                1456, 
+                392
+            ], 
+            "speaker": false, 
+            "frame_position": 38550.0, 
+            "keyword_id": 7
+        }, 
+        "Anne": {
+            "keyword": "Mom", 
+            "weight": 0.75, 
+            "face_position": [
+                716, 
+                92, 
+                1036, 
+                412
+            ], 
+            "speaker": true, 
+            "frame_position": 38532.0, 
+            "keyword_id": 7
+        }
+    }, 
+    "Dad_t4": {
+        "S.J": {
+            "keyword": "Dad", 
+            "weight": 0.5, 
+            "face_position": [
+                720, 
+                102, 
+                1309, 
+                691
+            ], 
+            "speaker": true, 
+            "frame_position": 28308.0, 
+            "keyword_id": 4
+        }, 
+        "Sean": {
+            "keyword": "Dad", 
+            "weight": 0.5, 
+            "face_position": [
+                765, 
+                136, 
+                1358, 
+                729
+            ], 
+            "speaker": false, 
+            "frame_position": 28326.0, 
+            "keyword_id": 4
+        }
+    }, 
+    "Dad_t5": {
+        "Anne": {
+            "keyword": "Dad", 
+            "weight": 0.25, 
+            "face_position": [
+                658, 
+                210, 
+                1151, 
+                703
+            ], 
+            "speaker": false, 
+            "frame_position": 28614.0, 
+            "keyword_id": 5
+        }, 
+        "S.J": {
+            "keyword": "Dad", 
+            "weight": 0.5, 
+            "face_position": [
+                799, 
+                180, 
+                1401, 
+                782
+            ], 
+            "speaker": true, 
+            "frame_position": 28452.0, 
+            "keyword_id": 5
+        }, 
+        "Sean": {
+            "keyword": "Dad", 
+            "weight": 0.25, 
+            "face_position": [
+                748, 
+                106, 
+                1369, 
+                727
+            ], 
+            "speaker": false, 
+            "frame_position": 28470.0, 
+            "keyword_id": 5
+        }
+    }, 
+    "Dad_t6": {
+        "Collins": {
+            "keyword": "Dad", 
+            "weight": 0.2, 
+            "face_position": [
+                901, 
+                138, 
+                1054, 
+                291
+            ], 
+            "speaker": false, 
+            "frame_position": 37920.0, 
+            "keyword_id": 6
+        }, 
+        "Michael": {
+            "keyword": "Dad", 
+            "weight": 0.6, 
+            "face_position": [
+                789, 
+                362, 
+                1097, 
+                670
+            ], 
+            "speaker": true, 
+            "frame_position": 37902.0, 
+            "keyword_id": 6
+        }, 
+        "Sean": {
+            "keyword": "Dad", 
+            "weight": 0.2, 
+            "face_position": [
+                857, 
+                112, 
+                1034, 
+                289
+            ], 
+            "speaker": false, 
+            "frame_position": 37938.0, 
+            "keyword_id": 6
+        }
+    }
+}

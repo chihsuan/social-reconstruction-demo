@@ -1,0 +1,116 @@
+{
+    "Son_t20": {
+        "Anne-Coach": {
+            "weight": 1.0, 
+            "keyword": "Son"
+        }
+    }, 
+    "Dad_t4": {
+        "S.J-Sean": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Mom_t8": {
+        "S.J-Sean": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Son_t24": {
+        "Coach-Michael": {
+            "weight": 1.0, 
+            "keyword": "Son"
+        }
+    }, 
+    "Brother_t12": {
+        "Anne-Collins": {
+            "weight": 1.0, 
+            "keyword": "Brother"
+        }
+    }, 
+    "Dad_t5": {
+        "S.J-Sean": {
+            "weight": 0.75, 
+            "keyword": "Dad"
+        }, 
+        "Anne-Sean": {
+            "weight": 0.5, 
+            "keyword": "Dad"
+        }, 
+        "Anne-S.J": {
+            "weight": 0.75, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Mom_t2": {
+        "Anne-Collins": {
+            "weight": 0.75, 
+            "keyword": "Mom"
+        }, 
+        "Collins-S.J": {
+            "weight": 0.5, 
+            "keyword": "Mom"
+        }, 
+        "Anne-S.J": {
+            "weight": 0.75, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Son_t14": {
+        "Coach-Michael": {
+            "weight": 1.0, 
+            "keyword": "Son"
+        }
+    }, 
+    "Mom_t7": {
+        "Anne-Collins": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t10": {
+        "Anne-Michael": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t11": {
+        "Anne-Collins": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Dad_t6": {
+        "Collins-Michael": {
+            "weight": 0.8, 
+            "keyword": "Dad"
+        }, 
+        "Collins-Sean": {
+            "weight": 0.4, 
+            "keyword": "Dad"
+        }, 
+        "Michael-Sean": {
+            "weight": 0.8, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Father_t9": {
+        "Anne-Michael": {
+            "weight": 1.0, 
+            "keyword": "Father"
+        }
+    }, 
+    "Mom_t16": {
+        "Michael-S.J": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t17": {
+        "Anne-S.J": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }
+}

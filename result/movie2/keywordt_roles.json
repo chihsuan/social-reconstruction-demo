@@ -1,0 +1,896 @@
+{
+    "Mother_t10": {
+        "Campbell": {
+            "keyword": "Mother", 
+            "weight": 2, 
+            "face_position": [
+                849, 
+                145, 
+                1070, 
+                366
+            ], 
+            "speaker": false, 
+            "frame_position": 31194.0, 
+            "keyword_id": 10
+        }, 
+        "Sara": {
+            "keyword": "Mother", 
+            "weight": 8, 
+            "face_position": [
+                1708, 
+                131, 
+                1906, 
+                329
+            ], 
+            "speaker": true, 
+            "frame_position": 31140.0, 
+            "keyword_id": 10
+        }
+    }, 
+    "Dad_t14": {
+        "Sara": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                1528, 
+                602, 
+                1695, 
+                769
+            ], 
+            "speaker": true, 
+            "frame_position": 40452.0, 
+            "keyword_id": 14
+        }
+    }, 
+    "Mom_t11": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 6, 
+            "face_position": [
+                339, 
+                53, 
+                896, 
+                610
+            ], 
+            "speaker": true, 
+            "frame_position": 35148.0, 
+            "keyword_id": 11
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                354, 
+                55, 
+                949, 
+                650
+            ], 
+            "speaker": false, 
+            "frame_position": 35166.0, 
+            "keyword_id": 11
+        }
+    }, 
+    "Mom_t12": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1335, 
+                446, 
+                1651, 
+                762
+            ], 
+            "speaker": false, 
+            "frame_position": 35484.0, 
+            "keyword_id": 12
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                730, 
+                113, 
+                1061, 
+                444
+            ], 
+            "speaker": true, 
+            "frame_position": 35484.0, 
+            "keyword_id": 12
+        }
+    }, 
+    "Mom_t13": {
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                730, 
+                113, 
+                1061, 
+                444
+            ], 
+            "speaker": true, 
+            "frame_position": 35484.0, 
+            "keyword_id": 13
+        }
+    }, 
+    "Mom_t15": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                768, 
+                4, 
+                889, 
+                125
+            ], 
+            "speaker": true, 
+            "frame_position": 40716.0, 
+            "keyword_id": 15
+        }
+    }, 
+    "Mom_t16": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                1286, 
+                87, 
+                1658, 
+                459
+            ], 
+            "speaker": false, 
+            "frame_position": 58218.0, 
+            "keyword_id": 16
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                464, 
+                8, 
+                960, 
+                504
+            ], 
+            "speaker": true, 
+            "frame_position": 58164.0, 
+            "keyword_id": 16
+        }
+    }, 
+    "Mom_t17": {
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 5, 
+            "face_position": [
+                548, 
+                184, 
+                811, 
+                447
+            ], 
+            "speaker": true, 
+            "frame_position": 61260.0, 
+            "keyword_id": 17
+        }
+    }, 
+    "Mom_t18": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 4, 
+            "face_position": [
+                1027, 
+                197, 
+                1225, 
+                395
+            ], 
+            "speaker": true, 
+            "frame_position": 63630.0, 
+            "keyword_id": 18
+        }
+    }, 
+    "Mom_t19": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 4, 
+            "face_position": [
+                314, 
+                144, 
+                609, 
+                439
+            ], 
+            "speaker": false, 
+            "frame_position": 81138.0, 
+            "keyword_id": 19
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1068, 
+                300, 
+                1382, 
+                614
+            ], 
+            "speaker": false, 
+            "frame_position": 81192.0, 
+            "keyword_id": 19
+        }, 
+        "Jesse": {
+            "keyword": "Mom", 
+            "weight": 3, 
+            "face_position": [
+                557, 
+                190, 
+                831, 
+                464
+            ], 
+            "speaker": true, 
+            "frame_position": 81084.0, 
+            "keyword_id": 19
+        }
+    }, 
+    "Judge_t31": {
+        "Campbell": {
+            "keyword": "Judge", 
+            "weight": 2, 
+            "face_position": [
+                600, 
+                71, 
+                755, 
+                226
+            ], 
+            "speaker": false, 
+            "frame_position": 141894.0, 
+            "keyword_id": 31
+        }, 
+        "Anna": {
+            "keyword": "Judge", 
+            "weight": 3, 
+            "face_position": [
+                1073, 
+                258, 
+                1225, 
+                410
+            ], 
+            "speaker": true, 
+            "frame_position": 141876.0, 
+            "keyword_id": 31
+        }
+    }, 
+    "Judge_t32": {
+        "Anna": {
+            "keyword": "Judge", 
+            "weight": 5, 
+            "face_position": [
+                1244, 
+                96, 
+                1475, 
+                327
+            ], 
+            "speaker": true, 
+            "frame_position": 143874.0, 
+            "keyword_id": 32
+        }
+    }, 
+    "Wife_t5": {
+        "Brian": {
+            "keyword": "Wife", 
+            "weight": 2, 
+            "face_position": [
+                687, 
+                153, 
+                983, 
+                449
+            ], 
+            "speaker": true, 
+            "frame_position": 7704.0, 
+            "keyword_id": 5
+        }, 
+        "Sara": {
+            "keyword": "Wife", 
+            "weight": 2, 
+            "face_position": [
+                602, 
+                154, 
+                916, 
+                468
+            ], 
+            "speaker": false, 
+            "frame_position": 7722.0, 
+            "keyword_id": 5
+        }
+    }, 
+    "Mom_t8": {
+        "Brian": {
+            "keyword": "Mom", 
+            "weight": 5, 
+            "face_position": [
+                729, 
+                252, 
+                1070, 
+                593
+            ], 
+            "speaker": false, 
+            "frame_position": 25674.0, 
+            "keyword_id": 8
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 5, 
+            "face_position": [
+                1368, 
+                23, 
+                1681, 
+                336
+            ], 
+            "speaker": false, 
+            "frame_position": 25674.0, 
+            "keyword_id": 8
+        }, 
+        "Jesse": {
+            "keyword": "Mom", 
+            "weight": 3, 
+            "face_position": [
+                398, 
+                157, 
+                786, 
+                545
+            ], 
+            "speaker": true, 
+            "frame_position": 25620.0, 
+            "keyword_id": 8
+        }
+    }, 
+    "Mom_t9": {
+        "Brian": {
+            "keyword": "Mom", 
+            "weight": 7, 
+            "face_position": [
+                1241, 
+                63, 
+                1580, 
+                402
+            ], 
+            "speaker": true, 
+            "frame_position": 26628.0, 
+            "keyword_id": 9
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1042, 
+                201, 
+                1397, 
+                556
+            ], 
+            "speaker": false, 
+            "frame_position": 26754.0, 
+            "keyword_id": 9
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                348, 
+                250, 
+                699, 
+                601
+            ], 
+            "speaker": false, 
+            "frame_position": 26628.0, 
+            "keyword_id": 9
+        }
+    }, 
+    "Dad_t23": {
+        "Brian": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                1077, 
+                451, 
+                1275, 
+                649
+            ], 
+            "speaker": true, 
+            "frame_position": 97164.0, 
+            "keyword_id": 23
+        }, 
+        "Anna": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                1501, 
+                482, 
+                1630, 
+                611
+            ], 
+            "speaker": false, 
+            "frame_position": 97254.0, 
+            "keyword_id": 23
+        }
+    }, 
+    "Dad_t22": {
+        "Jesse": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                1358, 
+                136, 
+                1473, 
+                251
+            ], 
+            "speaker": true, 
+            "frame_position": 95100.0, 
+            "keyword_id": 22
+        }
+    }, 
+    "Mom_t3": {
+        "Brian": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                580, 
+                109, 
+                814, 
+                343
+            ], 
+            "speaker": false, 
+            "frame_position": 6270.0, 
+            "keyword_id": 3
+        }, 
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 5, 
+            "face_position": [
+                857, 
+                74, 
+                1117, 
+                334
+            ], 
+            "speaker": true, 
+            "frame_position": 6252.0, 
+            "keyword_id": 3
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                564, 
+                126, 
+                802, 
+                364
+            ], 
+            "speaker": false, 
+            "frame_position": 6324.0, 
+            "keyword_id": 3
+        }
+    }, 
+    "Mom_t1": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 6, 
+            "face_position": [
+                1707, 
+                480, 
+                1890, 
+                663
+            ], 
+            "speaker": false, 
+            "frame_position": 5580.0, 
+            "keyword_id": 1
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 4, 
+            "face_position": [
+                103, 
+                94, 
+                309, 
+                300
+            ], 
+            "speaker": true, 
+            "frame_position": 5580.0, 
+            "keyword_id": 1
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1076, 
+                167, 
+                1388, 
+                479
+            ], 
+            "speaker": false, 
+            "frame_position": 5688.0, 
+            "keyword_id": 1
+        }
+    }, 
+    "Mom_t6": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1263, 
+                53, 
+                1388, 
+                178
+            ], 
+            "speaker": true, 
+            "frame_position": 23508.0, 
+            "keyword_id": 6
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1444, 
+                289, 
+                1565, 
+                410
+            ], 
+            "speaker": false, 
+            "frame_position": 23508.0, 
+            "keyword_id": 6
+        }
+    }, 
+    "Mom_t7": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                1260, 
+                24, 
+                1385, 
+                149
+            ], 
+            "speaker": false, 
+            "frame_position": 23976.0, 
+            "keyword_id": 7
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 3, 
+            "face_position": [
+                951, 
+                136, 
+                1316, 
+                501
+            ], 
+            "speaker": true, 
+            "frame_position": 23940.0, 
+            "keyword_id": 7
+        }
+    }, 
+    "Mom_t4": {
+        "Brian": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                991, 
+                122, 
+                1280, 
+                411
+            ], 
+            "speaker": true, 
+            "frame_position": 6396.0, 
+            "keyword_id": 4
+        }, 
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                534, 
+                84, 
+                773, 
+                323
+            ], 
+            "speaker": false, 
+            "frame_position": 6414.0, 
+            "keyword_id": 4
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 3, 
+            "face_position": [
+                530, 
+                95, 
+                774, 
+                339
+            ], 
+            "speaker": false, 
+            "frame_position": 6432.0, 
+            "keyword_id": 4
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                269, 
+                411, 
+                492, 
+                634
+            ], 
+            "speaker": false, 
+            "frame_position": 6468.0, 
+            "keyword_id": 4
+        }
+    }, 
+    "Mom_t29": {
+        "Brian": {
+            "keyword": "Mom", 
+            "weight": 7, 
+            "face_position": [
+                527, 
+                123, 
+                808, 
+                404
+            ], 
+            "speaker": true, 
+            "frame_position": 133332.0, 
+            "keyword_id": 29
+        }
+    }, 
+    "Mom_t28": {
+        "Campbell": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                688, 
+                273, 
+                1018, 
+                603
+            ], 
+            "speaker": false, 
+            "frame_position": 120270.0, 
+            "keyword_id": 28
+        }, 
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                524, 
+                155, 
+                898, 
+                529
+            ], 
+            "speaker": true, 
+            "frame_position": 120180.0, 
+            "keyword_id": 28
+        }, 
+        "Jesse": {
+            "keyword": "Mom", 
+            "weight": 1, 
+            "face_position": [
+                571, 
+                138, 
+                817, 
+                384
+            ], 
+            "speaker": false, 
+            "frame_position": 120252.0, 
+            "keyword_id": 28
+        }
+    }, 
+    "Dad_t2": {
+        "Brian": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                834, 
+                53, 
+                1120, 
+                339
+            ], 
+            "speaker": false, 
+            "frame_position": 5838.0, 
+            "keyword_id": 2
+        }, 
+        "Sara": {
+            "keyword": "Dad", 
+            "weight": 3, 
+            "face_position": [
+                1019, 
+                145, 
+                1234, 
+                360
+            ], 
+            "speaker": false, 
+            "frame_position": 5910.0, 
+            "keyword_id": 2
+        }, 
+        "Kate": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                1011, 
+                152, 
+                1219, 
+                360
+            ], 
+            "speaker": false, 
+            "frame_position": 5928.0, 
+            "keyword_id": 2
+        }, 
+        "Anna": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                930, 
+                60, 
+                1208, 
+                338
+            ], 
+            "speaker": true, 
+            "frame_position": 5820.0, 
+            "keyword_id": 2
+        }
+    }, 
+    "Mom_t27": {
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                704, 
+                167, 
+                938, 
+                401
+            ], 
+            "speaker": true, 
+            "frame_position": 116886.0, 
+            "keyword_id": 27
+        }
+    }, 
+    "Mom_t26": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 3, 
+            "face_position": [
+                1223, 
+                164, 
+                1414, 
+                355
+            ], 
+            "speaker": false, 
+            "frame_position": 115830.0, 
+            "keyword_id": 26
+        }, 
+        "Anna": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                524, 
+                122, 
+                979, 
+                577
+            ], 
+            "speaker": false, 
+            "frame_position": 115884.0, 
+            "keyword_id": 26
+        }, 
+        "Jesse": {
+            "keyword": "Mom", 
+            "weight": 4, 
+            "face_position": [
+                582, 
+                293, 
+                704, 
+                415
+            ], 
+            "speaker": true, 
+            "frame_position": 115812.0, 
+            "keyword_id": 26
+        }
+    }, 
+    "Mom_t21": {
+        "Sara": {
+            "keyword": "Mom", 
+            "weight": 3, 
+            "face_position": [
+                1277, 
+                115, 
+                1476, 
+                314
+            ], 
+            "speaker": true, 
+            "frame_position": 87078.0, 
+            "keyword_id": 21
+        }
+    }, 
+    "Mom_t20": {
+        "Brian": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                1124, 
+                193, 
+                1548, 
+                617
+            ], 
+            "speaker": false, 
+            "frame_position": 81570.0, 
+            "keyword_id": 20
+        }, 
+        "Taylor": {
+            "keyword": "Mom", 
+            "weight": 2, 
+            "face_position": [
+                819, 
+                247, 
+                1047, 
+                475
+            ], 
+            "speaker": false, 
+            "frame_position": 81516.0, 
+            "keyword_id": 20
+        }, 
+        "Kate": {
+            "keyword": "Mom", 
+            "weight": 8, 
+            "face_position": [
+                517, 
+                144, 
+                708, 
+                335
+            ], 
+            "speaker": true, 
+            "frame_position": 81516.0, 
+            "keyword_id": 20
+        }
+    }, 
+    "Judge_t25": {
+        "Campbell": {
+            "keyword": "Judge", 
+            "weight": 3, 
+            "face_position": [
+                898, 
+                116, 
+                1071, 
+                289
+            ], 
+            "speaker": true, 
+            "frame_position": 115356.0, 
+            "keyword_id": 25
+        }, 
+        "De": {
+            "keyword": "Judge", 
+            "weight": 5, 
+            "face_position": [
+                489, 
+                78, 
+                942, 
+                531
+            ], 
+            "speaker": false, 
+            "frame_position": 115410.0, 
+            "keyword_id": 25
+        }
+    }, 
+    "Judge_t24": {
+        "Campbell": {
+            "keyword": "Judge", 
+            "weight": 3, 
+            "face_position": [
+                873, 
+                127, 
+                1056, 
+                310
+            ], 
+            "speaker": true, 
+            "frame_position": 115350.0, 
+            "keyword_id": 24
+        }, 
+        "De": {
+            "keyword": "Judge", 
+            "weight": 1, 
+            "face_position": [
+                483, 
+                89, 
+                927, 
+                533
+            ], 
+            "speaker": false, 
+            "frame_position": 115404.0, 
+            "keyword_id": 24
+        }
+    }
+}

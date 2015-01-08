@@ -1,0 +1,89 @@
+{
+    "nodes": [
+        {
+            "group": 0, 
+            "name": "Sara", 
+            "ID": 0
+        }, 
+        {
+            "group": 1, 
+            "name": "Kate", 
+            "ID": 1
+        }, 
+        {
+            "group": 2, 
+            "name": "Anna", 
+            "ID": 2
+        }, 
+        {
+            "group": 3, 
+            "name": "Brian", 
+            "ID": 3
+        }, 
+        {
+            "group": 4, 
+            "name": "Campbell", 
+            "ID": 4
+        }, 
+        {
+            "group": 5, 
+            "name": "De", 
+            "ID": 5
+        }, 
+        {
+            "group": 6, 
+            "name": "Jesse", 
+            "ID": 6
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 1, 
+            "value": 6.016233766233766, 
+            "label": "Mom"
+        }, 
+        {
+            "source": 2, 
+            "target": 0, 
+            "value": 2.5555555555555554, 
+            "label": "Mom"
+        }, 
+        {
+            "source": 3, 
+            "target": 2, 
+            "value": 1.75, 
+            "label": "Dad"
+        }, 
+        {
+            "source": 4, 
+            "target": 5, 
+            "value": 2.0, 
+            "label": "Judge"
+        }, 
+        {
+            "source": 3, 
+            "target": 1, 
+            "value": 1.8333333333333333, 
+            "label": "Mom"
+        }, 
+        {
+            "source": 0, 
+            "target": 4, 
+            "value": 1.0, 
+            "label": "Mother"
+        }, 
+        {
+            "source": 6, 
+            "target": 0, 
+            "value": 1.0, 
+            "label": "Mom"
+        }, 
+        {
+            "source": 3, 
+            "target": 0, 
+            "value": 1.0, 
+            "label": "Grandmother"
+        }
+    ]
+}

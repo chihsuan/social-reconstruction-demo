@@ -1,0 +1,232 @@
+{
+    "Mom_t8": {
+        "Anna-Jesse": {
+            "weight": 0.6153846153846154, 
+            "keyword": "Mom"
+        }, 
+        "Brian-Jesse": {
+            "weight": 0.6153846153846154, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Brian": {
+            "weight": 0.7692307692307693, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t9": {
+        "Brian-Kate": {
+            "weight": 0.8888888888888888, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Kate": {
+            "weight": 0.2222222222222222, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Brian": {
+            "weight": 0.8888888888888888, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Dad_t23": {
+        "Anna-Brian": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t2": {
+        "Brian-Kate": {
+            "weight": 0.5, 
+            "keyword": "Dad"
+        }, 
+        "Anna-Kate": {
+            "weight": 0.375, 
+            "keyword": "Dad"
+        }, 
+        "Kate-Sara": {
+            "weight": 0.625, 
+            "keyword": "Dad"
+        }, 
+        "Anna-Sara": {
+            "weight": 0.5, 
+            "keyword": "Dad"
+        }, 
+        "Anna-Brian": {
+            "weight": 0.375, 
+            "keyword": "Dad"
+        }, 
+        "Brian-Sara": {
+            "weight": 0.625, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Mom_t3": {
+        "Brian-Sara": {
+            "weight": 0.8571428571428572, 
+            "keyword": "Mom"
+        }, 
+        "Brian-Kate": {
+            "weight": 0.2857142857142857, 
+            "keyword": "Mom"
+        }, 
+        "Kate-Sara": {
+            "weight": 0.8571428571428572, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t1": {
+        "Kate-Sara": {
+            "weight": 0.9090909090909091, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Sara": {
+            "weight": 0.6363636363636364, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Kate": {
+            "weight": 0.4545454545454546, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t6": {
+        "Anna-Sara": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t7": {
+        "Anna-Sara": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t4": {
+        "Brian-Kate": {
+            "weight": 0.625, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Kate": {
+            "weight": 0.5, 
+            "keyword": "Mom"
+        }, 
+        "Kate-Sara": {
+            "weight": 0.625, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Sara": {
+            "weight": 0.375, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Brian": {
+            "weight": 0.375, 
+            "keyword": "Mom"
+        }, 
+        "Brian-Sara": {
+            "weight": 0.5, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t20": {
+        "Kate-Taylor": {
+            "weight": 0.8333333333333333, 
+            "keyword": "Mom"
+        }, 
+        "Brian-Kate": {
+            "weight": 0.8333333333333333, 
+            "keyword": "Mom"
+        }, 
+        "Brian-Taylor": {
+            "weight": 0.3333333333333333, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Wife_t5": {
+        "Brian-Sara": {
+            "weight": 1.0, 
+            "keyword": "Wife"
+        }
+    }, 
+    "Mom_t11": {
+        "Kate-Sara": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t12": {
+        "Kate-Sara": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t28": {
+        "Campbell-Sara": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Mom"
+        }, 
+        "Jesse-Sara": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Mom"
+        }, 
+        "Campbell-Jesse": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t16": {
+        "Kate-Sara": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mom_t19": {
+        "Jesse-Kate": {
+            "weight": 0.5, 
+            "keyword": "Mom"
+        }, 
+        "Kate-Sara": {
+            "weight": 0.625, 
+            "keyword": "Mom"
+        }, 
+        "Jesse-Sara": {
+            "weight": 0.875, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Mother_t10": {
+        "Campbell-Sara": {
+            "weight": 1.0, 
+            "keyword": "Mother"
+        }
+    }, 
+    "Mom_t26": {
+        "Anna-Sara": {
+            "weight": 0.5555555555555556, 
+            "keyword": "Mom"
+        }, 
+        "Jesse-Sara": {
+            "weight": 0.7777777777777777, 
+            "keyword": "Mom"
+        }, 
+        "Anna-Jesse": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Judge_t31": {
+        "Anna-Campbell": {
+            "weight": 1.0, 
+            "keyword": "Judge"
+        }
+    }, 
+    "Judge_t25": {
+        "Campbell-De": {
+            "weight": 1.0, 
+            "keyword": "Judge"
+        }
+    }, 
+    "Judge_t24": {
+        "Campbell-De": {
+            "weight": 1.0, 
+            "keyword": "Judge"
+        }
+    }
+}

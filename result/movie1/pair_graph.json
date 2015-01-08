@@ -1,0 +1,156 @@
+{
+    "Mom_t40": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Dad_t52": {
+        "AMY-Robert": {
+            "weight": 0.6521739130434783, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Rosie": {
+            "weight": 0.6956521739130435, 
+            "keyword": "Dad"
+        }, 
+        "Robert-Rosie": {
+            "weight": 0.6521739130434783, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t56": {
+        "David-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t59": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t37": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t18": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t12": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t13": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Grandpa_t61": {
+        "AMY-Frank": {
+            "weight": 0.9166666666666666, 
+            "keyword": "Grandpa"
+        }, 
+        "AMY-Robert": {
+            "weight": 0.25, 
+            "keyword": "Grandpa"
+        }, 
+        "Frank-Robert": {
+            "weight": 0.8333333333333334, 
+            "keyword": "Grandpa"
+        }
+    }, 
+    "Brother_t17": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Brother"
+        }
+    }, 
+    "Dad_t39": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t47": {
+        "David-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t46": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t41": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t49": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Son_t22": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Son"
+        }
+    }, 
+    "Dad_t24": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t21": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t63": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t62": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t60": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t29": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Grandpa_t10": {
+        "Frank-Jack": {
+            "weight": 1.0, 
+            "keyword": "Grandpa"
+        }
+    }
+}
