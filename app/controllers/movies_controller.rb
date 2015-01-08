@@ -30,7 +30,7 @@ class MoviesController < ApplicationController
   end
 
   def get_data
-    @data = File.read("output/relation_graph.json")
+    @data = File.read("result/movie3/social_graph.json")
     render :json => @data 
   end
 
