@@ -126,7 +126,6 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bootstrap-sass (~> 3.2.0)
-  coffee-rails (~> 4.0.0)
   d3-rails
   execjs
   jbuilder (~> 2.0)
