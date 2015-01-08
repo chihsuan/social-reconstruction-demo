@@ -2,13 +2,17 @@
 <nav class="navbar navbar-default rp-navbar" role="navigation">
 <div class="container">
     <div class="collapse navbar-collapse" id="rp-navbar-collapse">
-         <a class="navbar-brand" href="#">Movie Analysis</a>
+         <a class="navbar-brand" href="#">Social Graph in the Movies</a>
         <ul class="nav navbar-nav rp-site-nav-list">
-            <%= form_tag( '/', remote:true, method:'get', class:"form-inline") do%>
-                 <div class="form-group">
-                     <%= select_tag(:movie, options_for_select([["Everybody's fine", 1], ["Harry Potter", 2], ['3 idot', 3]], selected: 1, class:"" )) %>
+            <form class="form-inline">
+                <div class="form-group">
+                    <select onchange="updateGraph(this)">
+                        <option value="movie1">Everybody's Fine</option>
+                        <option value="movie2">My Sister's Keeper</option>
+                        <option value="movie3">The Bind Side</option>
+                    </select>
                  </div>
-            <% end %>
+            </form>
         </ul>
     </div>
 </div>

@@ -1,13 +1,19 @@
 $(document).ready(function() {
   $('#fullpage').fullpage({
+		verticalCentered: true,
     'css3': true,
+    slidesNavigation: true,
+    controlArrows: true,
     'sectionsColor': ['#fff', '#fff', '#fff', '#fff'],
-    anchors: ['home', 'brief', 'section1', 'section2', 'section3',
-      'participate'
+    anchors: ['', 'intro', 'approach', 'demo',
     ],
     menu: '#menu',
-    'navigation': false,
-    'navigationPosition': 'right',
-    scrollingSpeed: 500
+    scrollingSpeed: 500,
+	  navigation: true,
+		navigationPosition: 'right',
+		navigationTooltips: ['First page', 'Second page', 'Third page', 'last page'],
+    afterRender: function () {
+      $('video').get(0).play();
+    }
   });
 });
