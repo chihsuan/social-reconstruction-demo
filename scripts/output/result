@@ -1,24 +1,22 @@
 None
-Anne --> Mom --> Collins
-2.75 0.6
+AMY --> Dad --> Frank
+6.0 1.0
 
-S.J --> Dad --> Sean
-S.J <-- Dad <-- Sean
-1.75 1.0
+Rosie --> Dad --> Frank
+5.0 0.651026392962
 
-Coach --> Son --> Michael
-Coach <-- Son <-- Michael
+Robert --> Dad --> Frank
+4.0 1.0
+
+Frank --> Dad --> David
+Frank <-- Dad <-- David
 2.0 1.0
 
-Michael --> Father --> Anne
-Michael <-- Father <-- Anne
-1.0 1.0
+AMY --> Sibling --> Rosie
+AMY <-- Sibling <-- Rosie
+1.04347826087 1.0
 
-S.J --> Mom --> Michael
-S.J <-- Mom <-- Michael
-1.0 1.0
-
-Michael --> Grandpa --> Sean
-Michael <-- Grandpa <-- Sean
+Jack --> Grandpa --> Frank
+Jack <-- Grandpa <-- Frank
 1.0 1.0
 

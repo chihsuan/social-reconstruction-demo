@@ -57,9 +57,9 @@ def relationship_minig(min_votes, iter_stop):
             bi_graph.remove_keyword(role_pair, dominant_keyword)
         else:
             bi_graph.remove_edges(role_pair, dominant_keyword)
+        itr += 1
         if itr == int(iter_stop):
             break
-        itr += 1
 
     json_io.write_json('result/social_graph.json', output_graph)
     social_graph.clear()

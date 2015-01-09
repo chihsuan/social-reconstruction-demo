@@ -1,72 +1,106 @@
 {
-    "nodes": [
-        {
-            "group": 0, 
-            "name": "Anne", 
-            "ID": 0
+    "Rosie": {
+        "AMY": {
+            "know": 1
         }, 
-        {
-            "group": 1, 
-            "name": "Collins", 
-            "ID": 1
+        "Frank": {
+            "know": 1
         }, 
-        {
-            "group": 2, 
-            "name": "S.J", 
-            "ID": 2
+        "Robert": {
+            "know": 1
         }, 
-        {
-            "group": 3, 
-            "name": "Sean", 
-            "ID": 3
-        }, 
-        {
-            "group": 4, 
-            "name": "Coach", 
-            "ID": 4
-        }, 
-        {
-            "group": 5, 
-            "name": "Michael", 
-            "ID": 5
+        "David": {
+            "know": 1
         }
-    ], 
-    "links": [
-        {
-            "source": 0, 
-            "target": 1, 
-            "value": 2.75, 
-            "label": "Mom"
+    }, 
+    "Jeff": {
+        "AMY": {
+            "know": 1
         }, 
-        {
-            "source": 2, 
-            "target": 3, 
-            "value": 1.75, 
-            "label": "Dad"
+        "Frank": {
+            "know": 1
         }, 
-        {
-            "source": 4, 
-            "target": 5, 
-            "value": 2.0, 
-            "label": "Son"
-        }, 
-        {
-            "source": 5, 
-            "target": 0, 
-            "value": 1.0, 
-            "label": "Father"
-        }, 
-        {
-            "source": 2, 
-            "target": 5, 
-            "value": 1.0, 
-            "label": "Mom"
-        }, 
-        {
-            "source": 5, 
-            "target": 3, 
-            "value": 1.0, 
-            "label": "Grandpa"
+        "Jack": {
+            "know": 1
         }
-    ]
+    }, 
+    "Frank": {
+        "Rosie": {
+            "know": 1
+        }, 
+        "Jeff": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }, 
+        "AMY": {
+            "know": 1
+        }, 
+        "Jack": {
+            "know": 1
+        }
+    }, 
+    "Robert": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Rosie": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }
+    }, 
+    "David": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "Rosie": {
+            "know": 1
+        }
+    }, 
+    "AMY": {
+        "Rosie": {
+            "know": 1
+        }, 
+        "Jeff": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }, 
+        "Jack": {
+            "know": 1
+        }
+    }, 
+    "Jack": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Jeff": {
+            "know": 1
+        }
+    }
 }
