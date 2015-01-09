@@ -1,0 +1,131 @@
+{
+    "De": {
+        "Campbell": {
+            "know": 1
+        }, 
+        "Kate": {
+            "know": 1
+        }, 
+        "Anna": {
+            "know": 1
+        }, 
+        "Susan": {
+            "know": 1
+        }
+    }, 
+    "Susan": {
+        "Susan": {
+            "know": 1
+        }
+    }, 
+    "Sara": {
+        "De": {
+            "know": 1
+        }, 
+        "Sara": {
+            "know": 1
+        }, 
+        "Brian": {
+            "know": 1
+        }, 
+        "Taylor": {
+            "know": 1
+        }, 
+        "Campbell": {
+            "know": 1
+        }, 
+        "Kate": {
+            "know": 1
+        }, 
+        "Anna": {
+            "know": 1
+        }, 
+        "Jesse": {
+            "know": 1
+        }
+    }, 
+    "Brian": {
+        "Sara": {
+            "know": 1
+        }, 
+        "Kate": {
+            "know": 1
+        }, 
+        "Anna": {
+            "know": 1
+        }, 
+        "Jesse": {
+            "know": 1
+        }
+    }, 
+    "Taylor": {
+        "Brian": {
+            "know": 1
+        }, 
+        "Kate": {
+            "know": 1
+        }, 
+        "Susan": {
+            "know": 1
+        }
+    }, 
+    "Campbell": {
+        "Sara": {
+            "know": 1
+        }, 
+        "De": {
+            "know": 1
+        }, 
+        "Anna": {
+            "know": 1
+        }
+    }, 
+    "Kate": {
+        "Brian": {
+            "know": 1
+        }, 
+        "Sara": {
+            "know": 1
+        }, 
+        "Anna": {
+            "know": 1
+        }, 
+        "Jesse": {
+            "know": 1
+        }
+    }, 
+    "Anna": {
+        "De": {
+            "know": 1
+        }, 
+        "Sara": {
+            "know": 1
+        }, 
+        "Brian": {
+            "know": 1
+        }, 
+        "Campbell": {
+            "know": 1
+        }, 
+        "Kate": {
+            "know": 1
+        }, 
+        "Jesse": {
+            "know": 1
+        }
+    }, 
+    "Jesse": {
+        "Brian": {
+            "know": 1
+        }, 
+        "Sara": {
+            "know": 1
+        }, 
+        "Kate": {
+            "know": 1
+        }, 
+        "Anna": {
+            "know": 1
+        }
+    }
+}

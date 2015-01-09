@@ -1,0 +1,111 @@
+{
+    "Sue": {
+        "Anne": {
+            "know": 1
+        }, 
+        "Michael": {
+            "know": 1
+        }, 
+        "Sean": {
+            "know": 1
+        }
+    }, 
+    "Coach": {
+        "Anne": {
+            "know": 1
+        }, 
+        "Michael": {
+            "know": 1
+        }, 
+        "Sean": {
+            "know": 1
+        }
+    }, 
+    "Michael": {
+        "Sue": {
+            "know": 1
+        }, 
+        "Coach": {
+            "know": 1
+        }, 
+        "Sandstrom": {
+            "know": 1
+        }, 
+        "S.J": {
+            "know": 1
+        }, 
+        "Sean": {
+            "know": 1
+        }, 
+        "Collins": {
+            "know": 1
+        }, 
+        "Anne": {
+            "know": 1
+        }
+    }, 
+    "Sandstrom": {
+        "Michael": {
+            "know": 1
+        }
+    }, 
+    "S.J": {
+        "Collins": {
+            "know": 1
+        }, 
+        "Anne": {
+            "know": 1
+        }, 
+        "Michael": {
+            "know": 1
+        }, 
+        "Sean": {
+            "know": 1
+        }
+    }, 
+    "Sean": {
+        "Michael": {
+            "know": 1
+        }, 
+        "Anne": {
+            "know": 1
+        }, 
+        "Coach": {
+            "know": 1
+        }, 
+        "S.J": {
+            "know": 1
+        }
+    }, 
+    "Collins": {
+        "Michael": {
+            "know": 1
+        }, 
+        "Anne": {
+            "know": 1
+        }, 
+        "S.J": {
+            "know": 1
+        }, 
+        "Sean": {
+            "know": 1
+        }
+    }, 
+    "Anne": {
+        "S.J": {
+            "know": 1
+        }, 
+        "Collins": {
+            "know": 1
+        }, 
+        "Coach": {
+            "know": 1
+        }, 
+        "Michael": {
+            "know": 1
+        }, 
+        "Sean": {
+            "know": 1
+        }
+    }
+}

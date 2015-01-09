@@ -1,0 +1,1032 @@
+{
+    "Dad_t60": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 3, 
+            "face_position": [
+                232, 
+                58, 
+                276, 
+                102
+            ], 
+            "speaker": true, 
+            "frame_position": 133824.0, 
+            "keyword_id": 60
+        }, 
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 6, 
+            "face_position": [
+                302, 
+                92, 
+                358, 
+                148
+            ], 
+            "speaker": false, 
+            "frame_position": 133836.0, 
+            "keyword_id": 60
+        }
+    }, 
+    "Dad_t38": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                144, 
+                29, 
+                193, 
+                78
+            ], 
+            "speaker": true, 
+            "frame_position": 93144.0, 
+            "keyword_id": 38
+        }
+    }, 
+    "Dad_t39": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                390, 
+                41, 
+                523, 
+                174
+            ], 
+            "speaker": false, 
+            "frame_position": 97488.0, 
+            "keyword_id": 39
+        }, 
+        "Rosie": {
+            "keyword": "Dad", 
+            "weight": 13, 
+            "face_position": [
+                277, 
+                48, 
+                383, 
+                154
+            ], 
+            "speaker": true, 
+            "frame_position": 97308.0, 
+            "keyword_id": 39
+        }
+    }, 
+    "Dad_t52": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 8, 
+            "face_position": [
+                311, 
+                24, 
+                371, 
+                84
+            ], 
+            "speaker": true, 
+            "frame_position": 118380.0, 
+            "keyword_id": 52
+        }, 
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 7, 
+            "face_position": [
+                494, 
+                135, 
+                582, 
+                223
+            ], 
+            "speaker": false, 
+            "frame_position": 118380.0, 
+            "keyword_id": 52
+        }, 
+        "Rosie": {
+            "keyword": "Dad", 
+            "weight": 8, 
+            "face_position": [
+                115, 
+                53, 
+                187, 
+                125
+            ], 
+            "speaker": false, 
+            "frame_position": 118380.0, 
+            "keyword_id": 52
+        }
+    }, 
+    "Dad_t50": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 4, 
+            "face_position": [
+                277, 
+                20, 
+                472, 
+                215
+            ], 
+            "speaker": true, 
+            "frame_position": 117552.0, 
+            "keyword_id": 50
+        }
+    }, 
+    "Dad_t51": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                281, 
+                10, 
+                491, 
+                220
+            ], 
+            "speaker": true, 
+            "frame_position": 117744.0, 
+            "keyword_id": 51
+        }
+    }, 
+    "Dad_t56": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 12, 
+            "face_position": [
+                252, 
+                38, 
+                437, 
+                223
+            ], 
+            "speaker": true, 
+            "frame_position": 120924.0, 
+            "keyword_id": 56
+        }, 
+        "David": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                258, 
+                42, 
+                436, 
+                220
+            ], 
+            "speaker": false, 
+            "frame_position": 120936.0, 
+            "keyword_id": 56
+        }
+    }, 
+    "Dad_t55": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                244, 
+                42, 
+                452, 
+                250
+            ], 
+            "speaker": true, 
+            "frame_position": 120684.0, 
+            "keyword_id": 55
+        }
+    }, 
+    "Dad_t59": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 3, 
+            "face_position": [
+                244, 
+                38, 
+                292, 
+                86
+            ], 
+            "speaker": true, 
+            "frame_position": 133068.0, 
+            "keyword_id": 59
+        }, 
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 9, 
+            "face_position": [
+                428, 
+                48, 
+                476, 
+                96
+            ], 
+            "speaker": false, 
+            "frame_position": 133068.0, 
+            "keyword_id": 59
+        }
+    }, 
+    "Dad_t37": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                392, 
+                55, 
+                431, 
+                94
+            ], 
+            "speaker": true, 
+            "frame_position": 90264.0, 
+            "keyword_id": 37
+        }, 
+        "Rosie": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                579, 
+                17, 
+                633, 
+                71
+            ], 
+            "speaker": false, 
+            "frame_position": 90300.0, 
+            "keyword_id": 37
+        }
+    }, 
+    "Dad_t31": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                347, 
+                82, 
+                422, 
+                157
+            ], 
+            "speaker": true, 
+            "frame_position": 69708.0, 
+            "keyword_id": 31
+        }
+    }, 
+    "Dad_t18": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                359, 
+                27, 
+                388, 
+                56
+            ], 
+            "speaker": true, 
+            "frame_position": 52680.0, 
+            "keyword_id": 18
+        }, 
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                341, 
+                20, 
+                381, 
+                60
+            ], 
+            "speaker": false, 
+            "frame_position": 52692.0, 
+            "keyword_id": 18
+        }
+    }, 
+    "Dad_t19": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                368, 
+                25, 
+                412, 
+                69
+            ], 
+            "speaker": true, 
+            "frame_position": 52716.0, 
+            "keyword_id": 19
+        }
+    }, 
+    "Dad_t14": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                477, 
+                153, 
+                549, 
+                225
+            ], 
+            "speaker": true, 
+            "frame_position": 47556.0, 
+            "keyword_id": 14
+        }
+    }, 
+    "Dad_t12": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                159, 
+                43, 
+                227, 
+                111
+            ], 
+            "speaker": true, 
+            "frame_position": 39804.0, 
+            "keyword_id": 12
+        }, 
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 12, 
+            "face_position": [
+                174, 
+                47, 
+                339, 
+                212
+            ], 
+            "speaker": false, 
+            "frame_position": 39828.0, 
+            "keyword_id": 12
+        }
+    }, 
+    "Dad_t13": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 10, 
+            "face_position": [
+                424, 
+                79, 
+                507, 
+                162
+            ], 
+            "speaker": true, 
+            "frame_position": 41772.0, 
+            "keyword_id": 13
+        }, 
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 4, 
+            "face_position": [
+                182, 
+                23, 
+                287, 
+                128
+            ], 
+            "speaker": false, 
+            "frame_position": 41832.0, 
+            "keyword_id": 13
+        }
+    }, 
+    "Dad_t11": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                333, 
+                20, 
+                361, 
+                48
+            ], 
+            "speaker": true, 
+            "frame_position": 31356.0, 
+            "keyword_id": 11
+        }
+    }, 
+    "Grandpa_t64": {
+        "Frank": {
+            "keyword": "Grandpa", 
+            "weight": 7, 
+            "face_position": [
+                328, 
+                30, 
+                446, 
+                148
+            ], 
+            "speaker": true, 
+            "frame_position": 135384.0, 
+            "keyword_id": 64
+        }
+    }, 
+    "Grandpa_t61": {
+        "AMY": {
+            "keyword": "Grandpa", 
+            "weight": 2, 
+            "face_position": [
+                175, 
+                54, 
+                217, 
+                96
+            ], 
+            "speaker": false, 
+            "frame_position": 133848.0, 
+            "keyword_id": 61
+        }, 
+        "Frank": {
+            "keyword": "Grandpa", 
+            "weight": 9, 
+            "face_position": [
+                302, 
+                92, 
+                358, 
+                148
+            ], 
+            "speaker": true, 
+            "frame_position": 133836.0, 
+            "keyword_id": 61
+        }, 
+        "Robert": {
+            "keyword": "Grandpa", 
+            "weight": 1, 
+            "face_position": [
+                489, 
+                40, 
+                542, 
+                93
+            ], 
+            "speaker": false, 
+            "frame_position": 133956.0, 
+            "keyword_id": 61
+        }
+    }, 
+    "Son_t53": {
+        "AMY": {
+            "keyword": "Son", 
+            "weight": 7, 
+            "face_position": [
+                182, 
+                46, 
+                311, 
+                175
+            ], 
+            "speaker": true, 
+            "frame_position": 119208.0, 
+            "keyword_id": 53
+        }
+    }, 
+    "Brother_t17": {
+        "AMY": {
+            "keyword": "Brother", 
+            "weight": 2, 
+            "face_position": [
+                424, 
+                36, 
+                495, 
+                107
+            ], 
+            "speaker": false, 
+            "frame_position": 49116.0, 
+            "keyword_id": 17
+        }, 
+        "Frank": {
+            "keyword": "Brother", 
+            "weight": 6, 
+            "face_position": [
+                347, 
+                39, 
+                484, 
+                176
+            ], 
+            "speaker": true, 
+            "frame_position": 48960.0, 
+            "keyword_id": 17
+        }
+    }, 
+    "Father_t42": {
+        "Frank": {
+            "keyword": "Father", 
+            "weight": 3, 
+            "face_position": [
+                274, 
+                30, 
+                489, 
+                245
+            ], 
+            "speaker": true, 
+            "frame_position": 100380.0, 
+            "keyword_id": 42
+        }
+    }, 
+    "Dad_t45": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 15, 
+            "face_position": [
+                348, 
+                112, 
+                388, 
+                152
+            ], 
+            "speaker": true, 
+            "frame_position": 106500.0, 
+            "keyword_id": 45
+        }
+    }, 
+    "Dad_t47": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 7, 
+            "face_position": [
+                260, 
+                62, 
+                434, 
+                236
+            ], 
+            "speaker": true, 
+            "frame_position": 110124.0, 
+            "keyword_id": 47
+        }, 
+        "David": {
+            "keyword": "Dad", 
+            "weight": 5, 
+            "face_position": [
+                419, 
+                82, 
+                567, 
+                230
+            ], 
+            "speaker": false, 
+            "frame_position": 110184.0, 
+            "keyword_id": 47
+        }
+    }, 
+    "Dad_t46": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                96, 
+                50, 
+                294, 
+                248
+            ], 
+            "speaker": false, 
+            "frame_position": 108732.0, 
+            "keyword_id": 46
+        }, 
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 6, 
+            "face_position": [
+                398, 
+                70, 
+                555, 
+                227
+            ], 
+            "speaker": true, 
+            "frame_position": 108612.0, 
+            "keyword_id": 46
+        }
+    }, 
+    "Dad_t41": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 10, 
+            "face_position": [
+                288, 
+                15, 
+                506, 
+                233
+            ], 
+            "speaker": false, 
+            "frame_position": 99444.0, 
+            "keyword_id": 41
+        }, 
+        "Rosie": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                249, 
+                22, 
+                432, 
+                205
+            ], 
+            "speaker": true, 
+            "frame_position": 99420.0, 
+            "keyword_id": 41
+        }
+    }, 
+    "Mom_t40": {
+        "Frank": {
+            "keyword": "Mom", 
+            "weight": 12, 
+            "face_position": [
+                253, 
+                37, 
+                369, 
+                153
+            ], 
+            "speaker": true, 
+            "frame_position": 97668.0, 
+            "keyword_id": 40
+        }, 
+        "Rosie": {
+            "keyword": "Mom", 
+            "weight": 4, 
+            "face_position": [
+                361, 
+                43, 
+                503, 
+                185
+            ], 
+            "speaker": false, 
+            "frame_position": 97716.0, 
+            "keyword_id": 40
+        }
+    }, 
+    "Dad_t49": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 9, 
+            "face_position": [
+                191, 
+                49, 
+                319, 
+                177
+            ], 
+            "speaker": true, 
+            "frame_position": 117372.0, 
+            "keyword_id": 49
+        }, 
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                280, 
+                31, 
+                467, 
+                218
+            ], 
+            "speaker": false, 
+            "frame_position": 117492.0, 
+            "keyword_id": 49
+        }
+    }, 
+    "Dad_t48": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                315, 
+                145, 
+                367, 
+                197
+            ], 
+            "speaker": true, 
+            "frame_position": 113820.0, 
+            "keyword_id": 48
+        }
+    }, 
+    "Dad_t27": {
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 8, 
+            "face_position": [
+                227, 
+                35, 
+                342, 
+                150
+            ], 
+            "speaker": true, 
+            "frame_position": 65364.0, 
+            "keyword_id": 27
+        }
+    }, 
+    "Son_t22": {
+        "Frank": {
+            "keyword": "Son", 
+            "weight": 1, 
+            "face_position": [
+                184, 
+                13, 
+                307, 
+                136
+            ], 
+            "speaker": true, 
+            "frame_position": 61692.0, 
+            "keyword_id": 22
+        }, 
+        "Robert": {
+            "keyword": "Son", 
+            "weight": 9, 
+            "face_position": [
+                398, 
+                46, 
+                446, 
+                94
+            ], 
+            "speaker": false, 
+            "frame_position": 61716.0, 
+            "keyword_id": 22
+        }
+    }, 
+    "Dad_t24": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 4, 
+            "face_position": [
+                402, 
+                53, 
+                510, 
+                161
+            ], 
+            "speaker": false, 
+            "frame_position": 63468.0, 
+            "keyword_id": 24
+        }, 
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 7, 
+            "face_position": [
+                243, 
+                29, 
+                298, 
+                84
+            ], 
+            "speaker": true, 
+            "frame_position": 63372.0, 
+            "keyword_id": 24
+        }
+    }, 
+    "Dad_t32": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                347, 
+                82, 
+                422, 
+                157
+            ], 
+            "speaker": true, 
+            "frame_position": 69708.0, 
+            "keyword_id": 32
+        }
+    }, 
+    "Dad_t21": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                208, 
+                20, 
+                297, 
+                109
+            ], 
+            "speaker": false, 
+            "frame_position": 60852.0, 
+            "keyword_id": 21
+        }, 
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 4, 
+            "face_position": [
+                290, 
+                58, 
+                353, 
+                121
+            ], 
+            "speaker": true, 
+            "frame_position": 60816.0, 
+            "keyword_id": 21
+        }
+    }, 
+    "Dad_t63": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 1, 
+            "face_position": [
+                284, 
+                77, 
+                328, 
+                121
+            ], 
+            "speaker": false, 
+            "frame_position": 134208.0, 
+            "keyword_id": 63
+        }, 
+        "Rosie": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                484, 
+                56, 
+                532, 
+                104
+            ], 
+            "speaker": true, 
+            "frame_position": 134100.0, 
+            "keyword_id": 63
+        }
+    }, 
+    "Dad_t62": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 4, 
+            "face_position": [
+                476, 
+                57, 
+                520, 
+                101
+            ], 
+            "speaker": true, 
+            "frame_position": 134040.0, 
+            "keyword_id": 62
+        }, 
+        "Rosie": {
+            "keyword": "Dad", 
+            "weight": 5, 
+            "face_position": [
+                383, 
+                77, 
+                420, 
+                114
+            ], 
+            "speaker": false, 
+            "frame_position": 134064.0, 
+            "keyword_id": 62
+        }
+    }, 
+    "Dad_t33": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                177, 
+                10, 
+                357, 
+                190
+            ], 
+            "speaker": true, 
+            "frame_position": 83964.0, 
+            "keyword_id": 33
+        }
+    }, 
+    "Dad_t29": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 3, 
+            "face_position": [
+                209, 
+                77, 
+                293, 
+                161
+            ], 
+            "speaker": false, 
+            "frame_position": 69012.0, 
+            "keyword_id": 29
+        }, 
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                463, 
+                90, 
+                572, 
+                199
+            ], 
+            "speaker": true, 
+            "frame_position": 68964.0, 
+            "keyword_id": 29
+        }
+    }, 
+    "Dad_t28": {
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 5, 
+            "face_position": [
+                215, 
+                52, 
+                318, 
+                155
+            ], 
+            "speaker": true, 
+            "frame_position": 65544.0, 
+            "keyword_id": 28
+        }
+    }, 
+    "Dad_t4": {
+        "AMY": {
+            "keyword": "Dad", 
+            "weight": 6, 
+            "face_position": [
+                210, 
+                51, 
+                289, 
+                130
+            ], 
+            "speaker": true, 
+            "frame_position": 9696.0, 
+            "keyword_id": 4
+        }
+    }, 
+    "Grandpa_t10": {
+        "Frank": {
+            "keyword": "Grandpa", 
+            "weight": 6, 
+            "face_position": [
+                589, 
+                200, 
+                662, 
+                273
+            ], 
+            "speaker": false, 
+            "frame_position": 29904.0, 
+            "keyword_id": 10
+        }, 
+        "Jack": {
+            "keyword": "Grandpa", 
+            "weight": 6, 
+            "face_position": [
+                588, 
+                200, 
+                663, 
+                275
+            ], 
+            "speaker": true, 
+            "frame_position": 29880.0, 
+            "keyword_id": 10
+        }
+    }, 
+    "Dad_t7": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 8, 
+            "face_position": [
+                171, 
+                11, 
+                354, 
+                194
+            ], 
+            "speaker": true, 
+            "frame_position": 23364.0, 
+            "keyword_id": 7
+        }
+    }, 
+    "Dad_t1": {
+        "Robert": {
+            "keyword": "Dad", 
+            "weight": 8, 
+            "face_position": [
+                340, 
+                53, 
+                494, 
+                207
+            ], 
+            "speaker": true, 
+            "frame_position": 8292.0, 
+            "keyword_id": 1
+        }
+    }, 
+    "Dad_t3": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                150, 
+                83, 
+                217, 
+                150
+            ], 
+            "speaker": true, 
+            "frame_position": 9120.0, 
+            "keyword_id": 3
+        }
+    }, 
+    "Father_t30": {
+        "Frank": {
+            "keyword": "Father", 
+            "weight": 5, 
+            "face_position": [
+                347, 
+                72, 
+                424, 
+                149
+            ], 
+            "speaker": true, 
+            "frame_position": 69648.0, 
+            "keyword_id": 30
+        }
+    }, 
+    "Dad_t8": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 7, 
+            "face_position": [
+                182, 
+                23, 
+                349, 
+                190
+            ], 
+            "speaker": true, 
+            "frame_position": 23388.0, 
+            "keyword_id": 8
+        }
+    }, 
+    "Dad_t9": {
+        "Frank": {
+            "keyword": "Dad", 
+            "weight": 2, 
+            "face_position": [
+                183, 
+                42, 
+                343, 
+                202
+            ], 
+            "speaker": true, 
+            "frame_position": 29220.0, 
+            "keyword_id": 9
+        }
+    }
+}

@@ -1,0 +1,31 @@
+None
+Sara --> Mom --> Kate
+6.01623376623 0.567630961689
+
+Anna --> Mom --> Sara
+2.55555555556 0.6
+
+Brian --> Dad --> Anna
+Brian <-- Dad <-- Anna
+1.75 0.842105263158
+
+Campbell --> Judge --> De
+Campbell <-- Judge <-- De
+2.0 1.0
+
+Brian --> Mom --> Kate
+Brian <-- Mom <-- Kate
+1.83333333333 0.606557377049
+
+Sara --> Mother --> Campbell
+Sara <-- Mother <-- Campbell
+1.0 1.0
+
+Jesse --> Mom --> Sara
+Jesse <-- Mom <-- Sara
+1.0 0.710843373494
+
+Brian --> Grandmother --> Sara
+Brian <-- Grandmother <-- Sara
+1.0 1.0
+

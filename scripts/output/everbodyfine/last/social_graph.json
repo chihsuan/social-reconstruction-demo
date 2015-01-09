@@ -1,0 +1,106 @@
+{
+    "Rosie": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }
+    }, 
+    "Jeff": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Jack": {
+            "know": 1
+        }
+    }, 
+    "Frank": {
+        "Rosie": {
+            "know": 1
+        }, 
+        "Jeff": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }, 
+        "AMY": {
+            "know": 1
+        }, 
+        "Jack": {
+            "know": 1
+        }
+    }, 
+    "Robert": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Rosie": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }
+    }, 
+    "David": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "Rosie": {
+            "know": 1
+        }
+    }, 
+    "AMY": {
+        "Rosie": {
+            "know": 1
+        }, 
+        "Jeff": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Robert": {
+            "know": 1
+        }, 
+        "David": {
+            "know": 1
+        }, 
+        "Jack": {
+            "know": 1
+        }
+    }, 
+    "Jack": {
+        "AMY": {
+            "know": 1
+        }, 
+        "Frank": {
+            "know": 1
+        }, 
+        "Jeff": {
+            "know": 1
+        }
+    }
+}

@@ -1,4 +1,4 @@
-function initialize (movie) {
+function initialize (data_url, post_data) {
     
     var image_path = "images/";
     var image_ext = ".png";
@@ -17,7 +17,7 @@ function initialize (movie) {
     .attr("width", width + '%')
     .attr("height", height);
 
-    d3.json( 'get_data', function(error, graph) {
+    d3.json(data_url, function(error, graph) {
         force
         .nodes(graph.nodes)
         .links(graph.links)
@@ -84,7 +84,7 @@ function initialize (movie) {
         .attr("y", function(d) { return (d.target.y + (d.source.y + d.target.y)/2)/2  ; }) 
         });
   }).header("Content-Type","application/json")
-    .send("POST", JSON.stringify({"movie": movie}));
+    .send("POST", JSON.stringify(post_data));
 }
 
 function CheckImg (url) {
@@ -97,8 +97,15 @@ function CheckImg (url) {
 function updateGraph (el) {
     var selected = $(el).val();
     $('svg').remove();
-    initialize(selected);
+    initialize('/get_data', {"movie": selected});
 };
 
+function submit () {
+    $('svg').remove();
+    var votes = $('#distance').val();
+    var itr = $('#relation').val();
+    initialize('/run', {"votes": votes, "itr": itr});
+}
 
-$(document).ready(initialize('movie1'));
+
+$(document).ready(initialize('/get_data', {"movie": "movie1"}));

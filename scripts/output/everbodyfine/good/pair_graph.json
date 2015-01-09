@@ -1,0 +1,298 @@
+{
+    "Mother_t52": {
+        "AMY-Robert": {
+            "weight": 0.42857142857142855, 
+            "keyword": "Mother"
+        }, 
+        "Robert-Rosie": {
+            "weight": 0.42857142857142855, 
+            "keyword": "Mother"
+        }, 
+        "Frank-Rosie": {
+            "weight": 0.5714285714285714, 
+            "keyword": "Mother"
+        }, 
+        "AMY-Frank": {
+            "weight": 0.5714285714285714, 
+            "keyword": "Mother"
+        }, 
+        "Frank-Robert": {
+            "weight": 0.5714285714285714, 
+            "keyword": "Mother"
+        }, 
+        "AMY-Rosie": {
+            "weight": 0.42857142857142855, 
+            "keyword": "Mother"
+        }
+    }, 
+    "Mom_t41": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Mom"
+        }
+    }, 
+    "Dad_t53": {
+        "AMY-Robert": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Rosie": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Dad"
+        }, 
+        "Robert-Rosie": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t54": {
+        "AMY-Robert": {
+            "weight": 0.29411764705882354, 
+            "keyword": "Dad"
+        }, 
+        "Robert-Rosie": {
+            "weight": 0.4117647058823529, 
+            "keyword": "Dad"
+        }, 
+        "Frank-Rosie": {
+            "weight": 0.7058823529411764, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Frank": {
+            "weight": 0.5882352941176471, 
+            "keyword": "Dad"
+        }, 
+        "Frank-Robert": {
+            "weight": 0.6470588235294118, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Rosie": {
+            "weight": 0.3529411764705882, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t55": {
+        "AMY-Frank": {
+            "weight": 0.6666666666666666, 
+            "keyword": "Dad"
+        }, 
+        "Frank-Rosie": {
+            "weight": 0.5, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Rosie": {
+            "weight": 0.8333333333333333, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t28": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t35": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t37": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t30": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t31": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t19": {
+        "AMY-Frank": {
+            "weight": 0.2857142857142857, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Jack": {
+            "weight": 0.9285714285714286, 
+            "keyword": "Dad"
+        }, 
+        "Frank-Jack": {
+            "weight": 0.7857142857142857, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t17": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t14": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t15": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t13": {
+        "Frank-Jeff": {
+            "weight": 0.5833333333333333, 
+            "keyword": "Dad"
+        }, 
+        "Jack-Jeff": {
+            "weight": 0.41666666666666663, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Frank": {
+            "weight": 0.5833333333333333, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Jeff": {
+            "weight": 0.5, 
+            "keyword": "Dad"
+        }, 
+        "AMY-Jack": {
+            "weight": 0.41666666666666663, 
+            "keyword": "Dad"
+        }, 
+        "Frank-Jack": {
+            "weight": 0.5, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t10": {
+        "David-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Mother_t68": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Mother"
+        }
+    }, 
+    "Father_t44": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Father"
+        }
+    }, 
+    "Dad_t40": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t42": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t49": {
+        "Frank-Rosie": {
+            "weight": 0.6666666666666667, 
+            "keyword": "Dad"
+        }, 
+        "Robert-Rosie": {
+            "weight": 0.16666666666666666, 
+            "keyword": "Dad"
+        }, 
+        "David-Rosie": {
+            "weight": 0.3333333333333333, 
+            "keyword": "Dad"
+        }, 
+        "Frank-Robert": {
+            "weight": 0.6666666666666667, 
+            "keyword": "Dad"
+        }, 
+        "David-Robert": {
+            "weight": 0.3333333333333333, 
+            "keyword": "Dad"
+        }, 
+        "David-Frank": {
+            "weight": 0.8333333333333334, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t48": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t26": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t25": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t21": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Son_t22": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Son"
+        }
+    }, 
+    "Dad_t65": {
+        "AMY-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t64": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Grandpa_t12": {
+        "Frank-Jack": {
+            "weight": 1.0, 
+            "keyword": "Grandpa"
+        }
+    }, 
+    "Dad_t2": {
+        "Frank-Robert": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Dad_t9": {
+        "David-Frank": {
+            "weight": 1.0, 
+            "keyword": "Dad"
+        }
+    }, 
+    "Mother_t43": {
+        "Frank-Rosie": {
+            "weight": 1.0, 
+            "keyword": "Mother"
+        }
+    }
+}
